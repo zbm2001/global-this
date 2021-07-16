@@ -33,10 +33,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ungap/global-this.git"
+    "url": "git+https://github.com/zbm2001/global-this.git"
   },
   "bugs": {
-    "url": "https://github.com/ungap/global-this/issues"
+    "url": "https://github.com/zbm2001/global-this/issues"
   },
-  "homepage": "https://github.com/ungap/global-this#readme"
+  "homepage": "https://github.com/zbm2001/global-this#readme"
 }

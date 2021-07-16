@@ -4,3 +4,4 @@ rollup/
 test/
 package-lock.json
 .travis.yml
+.idea
